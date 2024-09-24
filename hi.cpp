@@ -1,5 +1,5 @@
 using namespace std;
 int main()
 {
-  cout << "helow world!" << endl;
+  cout << "hello world!" << endl;
 }
